@@ -12,7 +12,7 @@ import { BsFillSunFill, BsFlower1 } from "react-icons/bs";
 
 export const topics = [
   {
-    name: "Adventure",
+    name: "Adventures",
     icon: <GiAncientSword />,
   },
   {
@@ -36,15 +36,15 @@ export const topics = [
     icon: <FaSnowflake />,
   },
   {
-    name: "comedy",
+    name: "Comedy",
     icon: <MdTheaterComedy />,
   },
   {
-    name: "gaming",
+    name: "Game",
     icon: <FaGamepad />,
   },
   {
-    name: "food",
+    name: "Slice Of Life",
     icon: <GiCakeSlice />,
   },
   {
@@ -56,7 +56,7 @@ export const topics = [
     icon: <FaPaw />,
   },
   {
-    name: "sports",
+    name: "Sports",
     icon: <FaMedal />,
   },
 ];
